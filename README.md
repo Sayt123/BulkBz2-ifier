@@ -7,7 +7,7 @@ To use:
 - Watch and marvel as 7zip bzip2's your folder
 
 
-Compression level quick comparisons if you want to change the **-mx#** line. I switched to -mx2 for faster compression with minimal compression loss. Tested on surf_rolly at 439,711KB uncompressed. It is worth noting these tests were also done before I changed the dictionary size.
+Compression level quick comparisons if you want to change the **-mx#** line. I switched to -mx2 for faster compression with minimal compression loss. Tested on my copy of CSGO surf map [surf_rolly](https://gamebanana.com/mods/82209) at 439,711KB uncompressed. It is worth noting these tests were also done before I changed the dictionary size.
 
 
 Level | Output Filesize | Time
